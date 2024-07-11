@@ -53,13 +53,13 @@
 1. 克隆项目到本地，如无法克隆也可以直接从右上角下载zip压缩包到本地解压
 
 ```shell
-git clone https://github.com/LinYuanovo/pikpak_auto_invite.git
+git clone https://github.com/yuanye0077/pikpak_L.git
 ```
 
 2. 进入到项目目录
 
 ```shell
-cd pikpak_auto_invite
+cd pikpak_L
 ```
 
 3. 安装项目所需依赖（如安装有问题自行换源）

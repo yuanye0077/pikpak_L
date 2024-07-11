@@ -55,6 +55,9 @@
 ```shell
 git clone https://github.com/yuanye0077/pikpak_L.git
 ```
+```shell
+git clone https://githubfast.com/yuanye0077/pikpak_L.git
+```
 
 2. 进入到项目目录
 
